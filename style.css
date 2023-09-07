@@ -51,6 +51,12 @@ article {
     padding: 5rem;
 }
 
+article > img {
+    padding: 0.5rem;
+    width: 100%;
+    height: 100%;
+}
+
 footer {
     background-color: #333;
     color: #fff;
